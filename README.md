@@ -15,7 +15,7 @@ This project is a REST API for a simple banking application. It allows you to ma
 - Spring Boot 3.x.x
 - Java 17
 - Spring Data JPA
-- H2 Database (for testing purposes)
+- Mysql Database 
 - Maven (for project management)
 
 ## Getting Started
